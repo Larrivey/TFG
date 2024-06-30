@@ -1,0 +1,5 @@
+1.	Introducción a la identidad digital - https://f72a491e-a-ef8ef19a-s-sites.googlegroups.com/a/espacio3i.com/cibercultura_publico/modulo-3-aspectos-metodologicos-de-la-cibercultura/2-comunicacioneidentidadesculturaleseninternet/giones2.pdf?attachauth=ANoY7cqNOcYpHs61piL4TE-dtczFcrwS4JLjbGgD6Tttsue0IKU25-JziQtPBnogh2fHfzdCZZJa1vgQ6hUyudXdgiFRu6bXamtrkjVwnPgSwMd5pnsma2-aMXm8dBJFYpxsgujq7hVfTvh_Q69T3dnRiUXn3dJL5lrym67biKDk-bMpCrZIYCASw993q-2m19-fFdcsfuevRPjIx97zDRDzq328qLUPj9pO9Z9q6V46Cw3zI1UK-wfKAIzSWMhxdjKrXLOoO5zZVwZdNvXgLMUAN_8lHnRgWearXcrHVaUPdFXQib-9jwP6bn10yuBVbhr5d0UpMGxLqP6CjGzgDtsMu5K8SsrNePKzDrRNGxXS2Pt7rmHV_5M%3D&attredirects=0 – En el apartado 3 del documento se describe el propósito del trabajo.
+2.	Perspectiva psicológica - https://web.archive.org/web/20180415234330id_/http://revistas.udc.es/index.php/reipe/article/viewFile/reipe.2015.0.13.145/pdf_356
+3. Apify https://docs.apify.com/api/client/python/
+4. diagrama -> https://app.diagrams.net (cuenta rodrigomarquesbuil@gmail.com)
+5. Apify -> https://console.apify.com/actors/dSCLg0C3YEZ83HzYX/console?addFromActorId=dSCLg0C3YEZ83HzYX (cuenta r.marques.2018@alumnos.urjc.es)
